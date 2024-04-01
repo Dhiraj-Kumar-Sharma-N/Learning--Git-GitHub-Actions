@@ -35,6 +35,7 @@ Git Branches:
 4. How to merge branch to master
 5. How to delete branch (local and remote)
 
+
 Step 1 : Create branch   git branch “branch name”
 Step 2 : Checkout branch   git checkout “branch name”
 Step 3 : Make some changes in your project
